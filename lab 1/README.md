@@ -79,11 +79,11 @@ ________________________________________________________________________________
 ### ip r
 
 - centralRouter
-![central_router_ip_r](ip_r/central_router_ip_r.png.png)
+![centralrouter_ip_r](ip_r/centralrouter_ip_r.png.png)
 - centralServer
 ![centralServer_ip_r](ip_r/centralServer_ip_r.png)
 - inetRouter
-![inet_router_ip_r](ip_r/inet_router_ip_r.png.png)
+![inetrouter_ip_r](ip_r/inetrouter_ip_r.png.png)
 - office1Router
 ![office1Router_ip_r](ip_r/office1Router_ip_r.png)
 - office1Server
