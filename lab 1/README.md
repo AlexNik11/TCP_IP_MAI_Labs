@@ -79,19 +79,19 @@ ________________________________________________________________________________
 ### ip r
 
 - centralRouter
-![centralRouter_ip_r](ip_r/centralServer_ip_r.png)
+![centralRouter_ip_r](ip_r/centralRouter_ip_r.png)
 - centralServer
 ![centralServer_ip_r](ip_r/centralServer_ip_r.png)
 - inetRouter
-![inetRouter_ip_r](ip_r/centralServer_ip_r.png)
+![inetRouter_ip_r](ip_r/inetRouter_ip_r.png)
 - office1Router
-![office1Router_ip_r](ip_r/centralServer_ip_r.png)
+![office1Router_ip_r](ip_r/office1Router_ip_r.png)
 - office1Server
-![office1Server_ip_r](ip_r/centralServer_ip_r.png)
+![office1Server_ip_r](ip_r/office1Server_ip_r.png)
 - office2Router
-![office2Router_ip_r](ip_r/centralServer_ip_r.png)
+![office2Router_ip_r](ip_r/office2Router_ip_r.png)
 - office2Server
-![office2Server_ip_r](ip_r/centralServer_ip_r.png)
+![office2Server_ip_r](ip_r/office2Server_ip_r.png)
 
 ## Задание 4
 - поднять nginx на officе2Server
