@@ -54,20 +54,42 @@ Broadcast: 192.168.0.15
 
 - Все серверы и роутеры должны ходить в Интернет черз inetRouter;
 - Все серверы должны видеть друг друга;
-- У всех новых серверов отключить дефолт на NAT (eth0), который Vagrant поднимает для связи; // уже сделано в VagrantFile заранее, 
+- У всех новых серверов отключить дефолт на NAT (eth0), который Vagrant поднимает для связи; 
+// уже сделано в VagrantFile заранее, 
 - в README приложить скриншоты tracepath и `ip r`
 
-### office1Server
+### tracepath
+- centralRouter
+![centralRouter_tracepath](tracepath/centralRouter_tracepath.png)
+- centralServer
+![centralServer_tracepath](tracepath/centralServer_tracepath.png)
+- inetRouter
+![inetRouter_tracepath](tracepath/inetRouter_tracepath.png)
+- office1Router
+![office1Router_tracepath](tracepath/office1Router_tracepath.png)
+- office1Server
+![office1Server](tracepath/office1Server.png)
+- office2Router
+![office2Router_tracepath](tracepath/office2Router_tracepath.png)
+- office2Server
+![office2Server_tracepath](tracepath/office2Server_tracepath.png)
 
-![office_1_Server](office_1_Server.png)
+### ip r
 
-### office2Server
-
-![office_2_Server](office_2_Server.png)
-
-### centralServer
-
-![central_Server](central_Server.png)
+- centralRouter
+![centralRouter_ip_r](ip_r/centralServer_ip_r.png)
+- centralServer
+![centralServer_ip_r](ip_r/centralServer_ip_r.png)
+- inetRouter
+![inetRouter_ip_r](ip_r/centralServer_ip_r.png)
+- office1Router
+![office1Router_ip_r](ip_r/centralServer_ip_r.png)
+- office1Server
+![office1Server_ip_r](ip_r/centralServer_ip_r.png)
+- office2Router
+![office2Router_ip_r](ip_r/centralServer_ip_r.png)
+- office2Server
+![office2Server_ip_r](ip_r/centralServer_ip_r.png)
 
 ## Задание 4
 - поднять nginx на officе2Server
